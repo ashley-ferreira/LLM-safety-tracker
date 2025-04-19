@@ -70,13 +70,13 @@ If you would like to use the data from the underlying benchmarks, please cite th
 }
 
 @misc{zhang2024safety,
-      title={SafetyBench: Evaluating the Safety of Large Language Models}, 
-      author={Zhexin Zhang and Leqi Lei and Lindong Wu and Rui Sun and Yongkang Huang and Chong Long and Xiao Liu and Xuanyu Lei and Jie Tang and Minlie Huang},
-      year={2024},
-      eprint={2309.07045},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2309.07045}, 
+    title={SafetyBench: Evaluating the Safety of Large Language Models}, 
+    author={Zhexin Zhang and Leqi Lei and Lindong Wu and Rui Sun and Yongkang Huang and Chong Long and Xiao Liu and Xuanyu Lei and Jie Tang and Minlie Huang},
+    year={2024},
+    eprint={2309.07045},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2309.07045}, 
 }
 
 @article{wang2023libra,
