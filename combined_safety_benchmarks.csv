@@ -1,0 +1,19 @@
+provider,model,release date,release date link,DecodingTrust Score,Salad-Bench Score,Libra-Leaderboard Score,SafetyBench Score
+OpenAI,text-davinci-003,2022-11-28,https://scale.com/blog/gpt-3-davinci-003-comparison?utm_source=chatgpt.com,,,,79.1
+OpenAI,GPT-3.5 Turbo,2023-03-01,https://techcrunch.com/2023/03/01/openai-launches-an-api-for-chatgpt-plus-dedicated-capacity-for-enterprise-customers/,72.45,69.9,76.8,80.3
+OpenAI,GPT-4,2023-03-13,https://openai.com/index/gpt-4/,69.24,87.6,86,89
+OpenAI,GPT-4 Turbo,2023-11-06,https://openai.com/index/new-models-and-developer-products-announced-at-devday/,,,,
+OpenAI,GPT-4o,2024-05-13,https://techcrunch.com/2024/05/13/openais-newest-model-is-gpt-4o/,82.96,,86.8,
+OpenAI,GPT-4o-mini,2024-07-18,https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/,76.31,,82.5,
+Anthropic,Claude 2,2023-07-11,https://www.anthropic.com/news/claude-2,84.52,70,,
+Anthropic,Claude 3 Haiku,2024-05-04,https://www.anthropic.com/news/claude-3-family,,,83.1,
+Anthropic,Clause 3.5 Sonnet,2024-06-20,https://www.anthropic.com/news/claude-3-5-sonnet,,,,
+Anthropic,Clause 3.5 Haiku,2024-10-22,https://www.anthropic.com/claude/haiku,,,85.1,
+Meta,Llama 2 (7B),2023-07-18,https://about.fb.com/news/2023/07/llama-2/,74.72,39.8,,65.2
+Meta,Llama 2 (13B),2023-07-18,https://about.fb.com/news/2023/07/llama-2/,,57.4,,67.2
+Meta,Llama 2 (70B),2023-07-18,https://about.fb.com/news/2023/07/llama-2/,,63.8,,
+Meta,Llama 3 Instruct (8B),2024-04-18,https://ai.meta.com/blog/meta-llama-3/,80.61,,70.2,
+Meta,Llama 3 Instruct (70B),2024-04-18,https://ai.meta.com/blog/meta-llama-3/,,,,
+Meta,Llama 3.1 Instruct (8b Intruct FP8),2024-07-23,https://ai.meta.com/blog/meta-llama-3-1/,,,,
+Meta,Llama 3.1 Instruct (405B),2024-07-23,https://ai.meta.com/blog/meta-llama-3-1/,,,,
+Meta,Llama 3.2 Instruct (3B),2024-09-25,https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/,,,76,
